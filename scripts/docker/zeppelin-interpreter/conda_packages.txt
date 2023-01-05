@@ -12,6 +12,7 @@ matplotlib
 ipykernel
 jupyter_client
 bokeh
+kafka-python
 
 # R packages
 r-evaluate
